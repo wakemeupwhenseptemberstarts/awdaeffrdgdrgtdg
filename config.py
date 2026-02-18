@@ -9,14 +9,10 @@ PROXY_FILE = "proxies.txt"
 OUTPUT_FILE = "raw_keys_found.txt"
 
 GITHUB_TOKENS = [
-    "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",
-    "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",
-    "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",
-    "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",
+
 ]
 
 GITLAB_TOKENS = [
-    "glpat-q_mb4o5ID0RHDzHpkVdJ-m86MQp1Omp1N2V2Cw.01.120btjek9", 
 ]
 
 HUGGINGFACE_TOKEN = "" 
